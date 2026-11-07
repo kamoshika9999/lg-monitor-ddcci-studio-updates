@@ -1,8 +1,8 @@
 {
-    "version": "1.8.11",
-    "publishedAt": "2026-11-07T03:18:55+00:00",
+    "version": "1.8.12",
+    "publishedAt": "2026-11-07T06:55:44+00:00",
     "packageFileName": "LgMonitorController_Update.zip",
-    "sha256": "38BAD26873B2B75E8FB674B13B477907F7CD4C1752A48BEB9C996417A0809179",
-    "sizeBytes": 357320,
-    "releaseNotes": "v1.8.11: 差分アップデート配信先をパブリックリポジトリへ移行（トークン不要で即時自動更新）・輝度スライダーの画面ちらつき解消・HDR欄レイアウト修正"
+    "sha256": "2480F3549D5445E0358C0527DB98C7C3240CF8B583CD748732E863FE97F77B37",
+    "sizeBytes": 358324,
+    "releaseNotes": "v1.8.12: スライドバードラッグ中（マウス左ボタン押下中）のリアルタイム輝度反映を修正（ちらつき防止維持・トラック任意位置からのドラッグ対応）"
 }
